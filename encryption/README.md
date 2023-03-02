@@ -4,7 +4,7 @@ go语言里面的常见加密算法
 
 
 ```
-go get github.com/liu578101804/go-tool/encryption
+go get github.com/Lzffancy/go_dev/encryption
 ```
 
 
